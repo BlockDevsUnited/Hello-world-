@@ -4,3 +4,12 @@ In case any new BDU groups were popping up and a little nervous about finding co
 Youtube : https://www.youtube.com/watch?v=C5yvrVffPeQ&feature=youtu.be
 
 IPFS Hash: coming soon 
+
+
+Links used
+
+metamask - metamask.io
+
+remix- https://remix.ethereum.org
+
+mist interface - wallet.ethereum.org 
