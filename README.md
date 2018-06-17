@@ -1,7 +1,7 @@
 # Hello-world-
 In case any new BDU groups were popping up and a little nervous about finding content. This could be a perfect first lesson. I personally did it and people seemed to like it.  
 
-Youtube : https://www.youtube.com/watch?v=C5yvrVffPeQ&feature=youtu.be
+Youtube : https://www.youtube.com/watch?v=052vl2MZTOg
 
 IPFS Hash: coming soon 
 
